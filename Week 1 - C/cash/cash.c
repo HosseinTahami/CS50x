@@ -1,7 +1,7 @@
-clude<cs50.h>
+#include <cs50.h>
 #include <stdio.h>
 
-    int main(void)
+int main(void)
 {
     int change = get_int("Change owed: ");
     int c = 0;
