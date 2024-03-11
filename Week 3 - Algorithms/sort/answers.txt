@@ -1,0 +1,11 @@
+sort1 uses: Bubble
+
+How do you know?: Fast in sorted text files but slow in random files.
+
+sort2 uses: Merge
+
+How do you know?: It sorts the random50000.txt faster than two other sort programs.
+
+sort3 uses: Selection
+
+How do you know?: runtime of it was slower than the others.
